@@ -1,0 +1,66 @@
+{
+  "assets": [
+    {
+      "id": "asset_1",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Embedded/Duck.gltf"
+    },
+    {
+      "id": "asset_2",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/DamagedHelmet/glTF-Embedded/DamagedHelmet.gltf"
+    },
+    {
+      "id": "asset_3",
+      "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/CesiumMan/glTF-Embedded/CesiumMan.gltf"
+    }
+  ],
+  "spawn": [
+    {
+      "assetId": "asset_1",
+      "count": 2,
+      "positions": [
+        {
+          "x": 10,
+          "y": 5,
+          "z": -20
+        },
+        {
+          "x": 15,
+          "y": 8,
+          "z": -25
+        }
+      ]
+    },
+    {
+      "assetId": "asset_2",
+      "count": 1,
+      "positions": [
+        {
+          "x": 5,
+          "y": 3,
+          "z": -10
+        }
+      ]
+    },
+    {
+      "assetId": "asset_3",
+      "count": 3,
+      "positions": [
+        {
+          "x": -10,
+          "y": 2,
+          "z": 15
+        },
+        {
+          "x": -20,
+          "y": 4,
+          "z": 20
+        },
+        {
+          "x": -25,
+          "y": 6,
+          "z": 25
+        }
+      ]
+    }
+  ]
+}
