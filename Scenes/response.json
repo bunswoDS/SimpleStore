@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "id": "recNnYM9iSGlGARJc",
+            "createdTime": "2023-03-28T00:17:43.000Z",
+            "fields": {
+                "Name": "Duck",
+                "URL": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Embedded/Duck.gltf",
+                "Spawns": [
+                    "recACPFvXT2CXmgs4",
+                    "recxZsbAmNZ8Vy4lP"
+                ]
+            }
+        },
+        {
+            "id": "recHv0dExYw6c2gpU",
+            "createdTime": "2023-03-28T00:17:43.000Z",
+            "fields": {
+                "Name": "Helmet",
+                "URL": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/DamagedHelmet/glTF-Embedded/DamagedHelmet.gltf",
+                "Spawns": [
+                    "recH93MA8dZEeI6Tp",
+                    "recH1oMsdHnEJvVKx",
+                    "recz826TT1Ic4a36K"
+                ]
+            }
+        },
+        {
+            "id": "recpHGeY1oui3kDNm",
+            "createdTime": "2023-03-28T00:17:43.000Z",
+            "fields": {
+                "Name": "Dude",
+                "URL": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/CesiumMan/glTF-Embedded/CesiumMan.gltf",
+                "Spawns": [
+                    "recuenWvlaN8E9okm"
+                ]
+            }
+        }
+    ]
+}
