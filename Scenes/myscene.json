@@ -3,14 +3,14 @@
         "ASSET": "TABLE",
         "FILEURL": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Embedded/Duck.gltf",
         "XPOS": "0",
-        "YPOS": "200",
+        "YPOS": "-200",
         "ZPOS": "0"
     },
     {
         "ASSET": "BOX",
         "FILEURL": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/Duck/glTF-Embedded/Duck.gltf",
-        "XPOS": "300",
+        "XPOS": "500",
         "YPOS": "0",
-        "ZPOS": "200"
+        "ZPOS": "300"
     }
 ]
