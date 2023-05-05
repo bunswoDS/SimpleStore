@@ -26,5 +26,47 @@
         "XPOS": "-383",
         "YPOS": "496",
         "ZPOS": "1197"
+    },
+    {
+        "ASSET": "DamagedHelmet",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/DamagedHelmet/glTF-Binary/DamagedHelmet.glb",
+        "XPOS": "629",
+        "YPOS": "1141",
+        "ZPOS": "1996"
+    },
+    {
+        "ASSET": "AnimatedCube",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/AnimatedCube/glTF-Binary/AnimatedCube.glb",
+        "XPOS": "1370",
+        "YPOS": "-1283",
+        "ZPOS": "1195"
+    },
+    {
+        "ASSET": "GearboxAssy",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/GearboxAssy/glTF-Binary/GearboxAssy.glb",
+        "XPOS": "-1447",
+        "YPOS": "-1401",
+        "ZPOS": "1458"
+    },
+    {
+        "ASSET": "Drone",
+        "FILEURL": "https://github.com/mrdoob/three.js/raw/master/examples/models/gltf/ParrotDrone.glb",
+        "XPOS": "173",
+        "YPOS": "-772",
+        "ZPOS": "915"
+    },
+    {
+        "ASSET": "RiggedSimple",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/RiggedSimple/glTF-Binary/RiggedSimple.glb",
+        "XPOS": "758",
+        "YPOS": "1329",
+        "ZPOS": "102"
+    },
+    {
+        "ASSET": "Monster",
+        "FILEURL": "https://github.com/mrdoob/three.js/raw/master/examples/models/gltf/Monster/glTF-Binary/Monster.glb",
+        "XPOS": "-989",
+        "YPOS": "461",
+        "ZPOS": "1486"
     }
 ]

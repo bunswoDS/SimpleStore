@@ -1,0 +1,30 @@
+[
+    {
+        "ASSET": "BoomBox",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/BoomBox/glTF-Binary/BoomBox.glb",
+        "XPOS": "-1532",
+        "YPOS": "1510",
+        "ZPOS": "1323"
+    },
+    {
+        "ASSET": "Avocado",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Avocado/glTF-Binary/Avocado.glb",
+        "XPOS": "1037",
+        "YPOS": "1309",
+        "ZPOS": "1774"
+    },
+    {
+        "ASSET": "Fox",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Fox/glTF-Binary/Fox.glb",
+        "XPOS": "876",
+        "YPOS": "-1571",
+        "ZPOS": "341"
+    },
+    {
+        "ASSET": "CesiumMan",
+        "FILEURL": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/CesiumMan/glTF-Binary/CesiumMan.glb",
+        "XPOS": "-383",
+        "YPOS": "496",
+        "ZPOS": "1197"
+    }
+]
