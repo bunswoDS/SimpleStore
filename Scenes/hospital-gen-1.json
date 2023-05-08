@@ -16,21 +16,21 @@
     {
     "ASSET": "SupplyCart_1",
     "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_SupplyCart.glb",
-    "XPOS": "400",
+    "XPOS": "500",
     "YPOS": "0",
     "ZPOS": "0"
     },
     {
     "ASSET": "RolledUpTowel_1",
     "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_RolledUpTowel.glb",
-    "XPOS": "400",
+    "XPOS": "500",
     "YPOS": "0",
     "ZPOS": "100"
     },
     {
     "ASSET": "Wall_1",
     "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/RoomWallPlane.glb",
-    "XPOS": "2000",
+    "XPOS": "-3000",
     "YPOS": "0",
     "ZPOS": "0"
     }
