@@ -23,15 +23,15 @@
     {
         "ASSET": "Nasal_Cannula_1",
         "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SM_Nasal_Cannula_Coiled.glb",
-        "XPOS": "100",
-        "YPOS": "100",
+        "XPOS": "50",
+        "YPOS": "50",
         "ZPOS": "200"
     },
     {
         "ASSET": "Wall_1",
         "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/RoomWallPlane.glb",
         "XPOS": "300",
-        "YPOS": "300",
+        "YPOS": "-410",
         "ZPOS": "0"
     }
 ]
