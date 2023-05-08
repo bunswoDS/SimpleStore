@@ -1,7 +1,7 @@
 [
     {
-    "ASSET": "SupplyCart_1",
-    "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_SupplyCart.glb",
+    "ASSET": "Table_1",
+    "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SM_Table2.glb",
     "XPOS": "0",
     "YPOS": "0",
     "ZPOS": "0"
@@ -9,13 +9,13 @@
     {
     "ASSET": "Nasal_Cannula_1",
     "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SM_Nasal_Cannula_Coiled.glb",
-    "XPOS": "500",
+    "XPOS": "0",
     "YPOS": "0",
     "ZPOS": "85"
     },
     {
-    "ASSET": "Table_1",
-    "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SM_Table2.glb",
+    "ASSET": "SupplyCart_1",
+    "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_SupplyCart.glb",
     "XPOS": "500",
     "YPOS": "0",
     "ZPOS": "0"
@@ -23,7 +23,7 @@
     {
     "ASSET": "RolledUpTowel_1",
     "FILEURL": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_RolledUpTowel.glb",
-    "XPOS": "0",
+    "XPOS": "500",
     "YPOS": "0",
     "ZPOS": "100"
     },
