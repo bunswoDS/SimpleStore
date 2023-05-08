@@ -21,7 +21,9 @@
         "a_name": "room_wall_plane",
         "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/RoomWallPlane.glb"
       }
-    ],
+    ]
+  },
+  {
     "instances": [
       {
         "asset_name": "table",
