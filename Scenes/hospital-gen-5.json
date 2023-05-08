@@ -71,6 +71,18 @@
       "zscale": 1
     },
     {
+      "asset_name": "supply_cart",
+      "xpos": 0,
+      "ypos": 200,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
       "asset_name": "room_wall_plane",
       "xpos": 300,
       "ypos": 300,
