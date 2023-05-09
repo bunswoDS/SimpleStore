@@ -129,8 +129,7 @@
       "xscale": 1,
       "yscale": 1,
       "zscale": 1
-    }
-    ,
+    },
     {
       "asset_name": "room_wall_plane",
       "xpos": -400,
@@ -142,8 +141,7 @@
       "xscale": 1,
       "yscale": 1,
       "zscale": 1
-    }
-    ,
+    },
     {
       "asset_name": "room_wall_plane",
       "xpos": 600,
@@ -155,8 +153,7 @@
       "xscale": 1,
       "yscale": 1,
       "zscale": 1
-    }
-    ,
+    },
     {
       "asset_name": "room_wall_plane",
       "xpos": 600,
@@ -168,8 +165,7 @@
       "xscale": 1,
       "yscale": 1,
       "zscale": 1
-    }
-    ,
+    },
     {
       "asset_name": "room_wall_plane",
       "xpos": 600,
@@ -181,8 +177,7 @@
       "xscale": 1,
       "yscale": 1,
       "zscale": 1
-    }
-    ,
+    },
     {
       "asset_name": "room_wall_plane",
       "xpos": 600,
