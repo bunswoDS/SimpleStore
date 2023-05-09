@@ -134,8 +134,8 @@
     ,
     {
       "asset_name": "room_wall_plane",
-      "xpos": 500,
-      "ypos": -400,
+      "xpos": 600,
+      "ypos": -300,
       "zpos": 0,
       "xrot": 0,
       "yrot": 0,
@@ -147,8 +147,8 @@
     ,
     {
       "asset_name": "room_wall_plane",
-      "xpos": 500,
-      "ypos": -400,
+      "xpos": 600,
+      "ypos": -100,
       "zpos": 0,
       "xrot": 0,
       "yrot": 0,
@@ -160,8 +160,8 @@
     ,
     {
       "asset_name": "room_wall_plane",
-      "xpos": 500,
-      "ypos": -300,
+      "xpos": 600,
+      "ypos": 100,
       "zpos": 0,
       "xrot": 0,
       "yrot": 0,
