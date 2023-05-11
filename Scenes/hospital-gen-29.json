@@ -1,0 +1,426 @@
+{
+  "assets": [
+    {
+      "a_name": "table",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SM_Table2.glb"
+    },
+    {
+      "a_name": "towel",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_RolledUpTowel.glb"
+    },
+    {
+      "a_name": "supply_cart",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_SupplyCart.glb"
+    },
+    {
+      "a_name": "nasal_cannula",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SM_Nasal_Cannula_Coiled.glb"
+    },
+    {
+      "a_name": "room_wall_plane",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/RoomWallPlane.glb"
+    },
+    {
+      "a_name": "bed",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SK_Bed.glb"
+    },
+    {
+      "a_name": "doorway_frame",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/RoomOneSideDoorway.glb"
+    },
+    {
+      "a_name": "floortile",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/Floor_Floor.glb"
+    },
+    {
+      "a_name": "door",
+      "a_url": "https://github.com/bunswoDS/SimpleStore/raw/main/GLTF/Hospital/SM_WideDoor.glb"
+    }
+  ],
+  "instances": [
+    {
+      "asset_name": "supply_cart",
+      "xpos": 0,
+      "ypos": 0,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "towel",
+      "xpos": 0,
+      "ypos": 0,
+      "zpos": 85,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 45,
+      "xscale": 0.5,
+      "yscale": 0.5,
+      "zscale": 0.5
+    },
+    {
+      "asset_name": "table",
+      "xpos": 0,
+      "ypos": -200,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "nasal_cannula",
+      "xpos": 0,
+      "ypos": -200,
+      "zpos": 100,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "supply_cart",
+      "xpos": 0,
+      "ypos": 200,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 500,
+      "ypos": -400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": -90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 300,
+      "ypos": -400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": -90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 100,
+      "ypos": -400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": -90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -100,
+      "ypos": -400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": -90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -300,
+      "ypos": -400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": -90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -500,
+      "ypos": -400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": -90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -600,
+      "ypos": -300,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 180,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -600,
+      "ypos": -100,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 180,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -600,
+      "ypos": -500,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 180,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -600,
+      "ypos": 300,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 180,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 600,
+      "ypos": -300,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 600,
+      "ypos": -100,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 600,
+      "ypos": 100,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 600,
+      "ypos": 300,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 500,
+      "ypos": 400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 300,
+      "ypos": 400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": 100,
+      "ypos": 400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -100,
+      "ypos": 400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -300,
+      "ypos": 400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "room_wall_plane",
+      "xpos": -500,
+      "ypos": 400,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "doorway_frame",
+      "xpos": -600,
+      "ypos": 100,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 180,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "door",
+      "xpos": -600,
+      "ypos": 10,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 90,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "table",
+      "xpos": 0,
+      "ypos": 0,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "floortile",
+      "xpos": 0,
+      "ypos": 0,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "floortile",
+      "xpos": 50,
+      "ypos": 0,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "floortile",
+      "xpos": 50,
+      "ypos": 50,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    },
+    {
+      "asset_name": "floortile",
+      "xpos": 0,
+      "ypos": 50,
+      "zpos": 0,
+      "xrot": 0,
+      "yrot": 0,
+      "zrot": 0,
+      "xscale": 1,
+      "yscale": 1,
+      "zscale": 1
+    }
+  ]
+}
