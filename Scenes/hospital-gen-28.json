@@ -375,18 +375,6 @@
       "zscale": 1
     },
     {
-      "asset_name": "bed",
-      "xpos": 370,
-      "ypos": 0,
-      "zpos": 0,
-      "xrot": 0,
-      "yrot": 0,
-      "zrot": 90,
-      "xscale": 1,
-      "yscale": 1,
-      "zscale": 1
-    },
-    {
       "asset_name": "floortile",
       "xpos": 0,
       "ypos": 0,
