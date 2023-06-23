@@ -50,7 +50,27 @@
       "yscale": 1,
       "zscale": 1,
       "grab_type": "none",
-      "movability": "Movable"
+      "movability": "Movable",
+      "attachment_points": [
+        {
+          "a_name": "a_point_1",
+          "xpos": 200,
+          "ypos": 200,
+          "zpos": 200,
+          "xrot": 0,
+          "yrot": 0,
+          "zrot": 0
+        },
+        {
+          "a_name": "a_point_2",
+          "xpos": 230,
+          "ypos": 230,
+          "zpos": 230,
+          "xrot": 0,
+          "yrot": 0,
+          "zrot": 0
+        }
+      ]
     },
     {
       "asset_name": "towel",
@@ -64,7 +84,18 @@
       "yscale": 0.5,
       "zscale": 0.5,
       "grab_type": "snap",
-      "movability": "Movable"
+      "movability": "Movable",
+      "attachment_points": [
+        {
+          "a_name": "a_point_1",
+          "xpos": 10,
+          "ypos": 10,
+          "zpos": 10,
+          "xrot": 0,
+          "yrot": 0,
+          "zrot": 0
+        }
+      ]
     },
     {
       "asset_name": "table",
